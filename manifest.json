@@ -3,7 +3,7 @@
   "description": "Crie cards usando sua planilha do Excel.",
   "author": "Seu Nome",
   "icon": {
-    "url": "https://seu-projeto.vercel.app/icone.png"
+    "url": "https://raw.githubusercontent.com/Warnney/xlsx-to-cards/master/icon.png"
   },
   "capabilities": {
     "board-buttons": [
