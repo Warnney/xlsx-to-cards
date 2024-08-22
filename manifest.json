@@ -19,7 +19,7 @@
   },
   "connectors": {
     "iframe": {
-      "url": "  https://xlsx-to-cards.vercel.app/index.html"
+      "url": "https://xlsx-to-cards.vercel.app/index.html"
     }
   }
 }
