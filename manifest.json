@@ -1,0 +1,26 @@
+{
+    "name": "XLSX to Cards",
+    "description": "Crie cards usando sua planilha do Excel.",
+    "author": "Salvatore Machado",
+    "icon": {
+      "url": "https://link-para-um-ícone.png"
+    },
+    "capabilities": {
+      "card-buttons": [
+        {
+          "text": "Importar Cards",
+          "callback": "importCards",
+          "condition": "always"
+        }
+      ],
+      "show-settings": {
+        "callback": "onShowSettings"
+      }
+    },
+    "connectors": {
+      "iframe": {
+        "url": "https://seu-domínio.com/index.html"
+      }
+    }
+  }
+  
